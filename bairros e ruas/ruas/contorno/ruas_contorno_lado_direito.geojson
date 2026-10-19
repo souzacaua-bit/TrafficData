@@ -1,0 +1,6702 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 27563813,
+        "v": 2959416733,
+        "key": 0,
+        "name": "Rua Carangola",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 34,
+            "coordenada": [
+              -43.9414608,
+              -19.9394077
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9414608,
+            -19.9394077
+          ],
+          [
+            -43.9414954,
+            -19.9395389
+          ],
+          [
+            -43.9419445,
+            -19.9411802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 27589587,
+        "v": 59868066,
+        "key": 0,
+        "name": "Avenida Nossa Senhora do Carmo",
+        "highway": "primary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": "60",
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 58,
+            "coordenada": [
+              -43.9335104,
+              -19.9399633
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9335104,
+            -19.9399633
+          ],
+          [
+            -43.9333616,
+            -19.939999
+          ],
+          [
+            -43.9332774,
+            -19.9400545
+          ],
+          [
+            -43.933225,
+            -19.9401244
+          ],
+          [
+            -43.9332085,
+            -19.9401911
+          ],
+          [
+            -43.9332168,
+            -19.9402837
+          ],
+          [
+            -43.9336695,
+            -19.9418167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 27590347,
+        "v": 5624726853,
+        "key": 0,
+        "name": "Avenida Churchill",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 134,
+            "coordenada": [
+              -43.9188521,
+              -19.922834
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9188521,
+            -19.922834
+          ],
+          [
+            -43.9187853,
+            -19.9226624
+          ],
+          [
+            -43.9187762,
+            -19.9226389
+          ],
+          [
+            -43.9187211,
+            -19.9225786
+          ],
+          [
+            -43.9186634,
+            -19.9225455
+          ],
+          [
+            -43.918507,
+            -19.9224964
+          ],
+          [
+            -43.9181349,
+            -19.9223979
+          ],
+          [
+            -43.9181045,
+            -19.9223899
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 27590348,
+        "v": 27591788,
+        "key": 0,
+        "name": "Rua Pacífico Mascarenhas",
+        "highway": "secondary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 150,
+            "coordenada": [
+              -43.9214424,
+              -19.9219583
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9214424,
+            -19.9219583
+          ],
+          [
+            -43.9214181,
+            -19.9218706
+          ],
+          [
+            -43.9212391,
+            -19.9212209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 27590350,
+        "v": 60739717,
+        "key": 0,
+        "name": "Rua Hermilo Alves",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 176,
+            "coordenada": [
+              -43.9264047,
+              -19.9174759
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9264047,
+            -19.9174759
+          ],
+          [
+            -43.9263219,
+            -19.9174317
+          ],
+          [
+            -43.9254788,
+            -19.9169466
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 28109282,
+        "v": 321027939,
+        "key": 0,
+        "name": null,
+        "highway": "primary_link",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_31"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_31",
+            "indice": 3,
+            "coordenada": [
+              -43.9337279,
+              -19.9148309
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_31": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9337279,
+            -19.9148309
+          ],
+          [
+            -43.933854,
+            -19.914788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 28109309,
+        "v": 28109270,
+        "key": 0,
+        "name": "Rua Viçosa",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 48,
+            "coordenada": [
+              -43.9375153,
+              -19.940352
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9378081,
+            -19.9412654
+          ],
+          [
+            -43.9375153,
+            -19.940352
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 28294465,
+        "v": 27584878,
+        "key": 0,
+        "name": "Rua Professor Magalhães Drumond",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 32,
+            "coordenada": [
+              -43.9428019,
+              -19.939075
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9430801,
+            -19.9400008
+          ],
+          [
+            -43.9428301,
+            -19.939167
+          ],
+          [
+            -43.9428019,
+            -19.939075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 28800995,
+        "v": 59868079,
+        "key": 0,
+        "name": "Avenida Nossa Senhora do Carmo",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": "60",
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 57,
+            "coordenada": [
+              -43.9341916,
+              -19.9400216
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9341916,
+            -19.9400216
+          ],
+          [
+            -43.9340426,
+            -19.9400483
+          ],
+          [
+            -43.9337044,
+            -19.9400331
+          ],
+          [
+            -43.9335842,
+            -19.9400556
+          ],
+          [
+            -43.9334848,
+            -19.940097
+          ],
+          [
+            -43.9334169,
+            -19.9401532
+          ],
+          [
+            -43.9333845,
+            -19.9402209
+          ],
+          [
+            -43.9333785,
+            -19.9403235
+          ],
+          [
+            -43.9337463,
+            -19.9417253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 29095539,
+        "v": 28109283,
+        "key": 0,
+        "name": "Rua Célio de Castro",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 201,
+            "coordenada": [
+              -43.930826,
+              -19.9131697
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9326451,
+            -19.9123869
+          ],
+          [
+            -43.9324802,
+            -19.9124048
+          ],
+          [
+            -43.9312142,
+            -19.9126666
+          ],
+          [
+            -43.9310721,
+            -19.9127043
+          ],
+          [
+            -43.9310211,
+            -19.9127516
+          ],
+          [
+            -43.9308514,
+            -19.9130391
+          ],
+          [
+            -43.9308212,
+            -19.9130996
+          ],
+          [
+            -43.9308137,
+            -19.9131298
+          ],
+          [
+            -43.930826,
+            -19.9131697
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 29096773,
+        "v": 5284207866,
+        "key": 0,
+        "name": "Rua Bernardo Mascarenhas",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 6,
+            "coordenada": [
+              -43.947263,
+              -19.9353376
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.947263,
+            -19.9353376
+          ],
+          [
+            -43.9480509,
+            -19.9361593
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 29120640,
+        "v": 321017268,
+        "key": 0,
+        "name": "Rua Levi Coelho",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 153,
+            "coordenada": [
+              -43.9227634,
+              -19.9216363
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9227634,
+            -19.9216363
+          ],
+          [
+            -43.922457,
+            -19.9204966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 29741086,
+        "v": 60739718,
+        "key": 0,
+        "name": "Rua Raul Mendes",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 182,
+            "coordenada": [
+              -43.9273132,
+              -19.9160263
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9273132,
+            -19.9160263
+          ],
+          [
+            -43.9272226,
+            -19.9159756
+          ],
+          [
+            -43.9271354,
+            -19.9159278
+          ],
+          [
+            -43.9266976,
+            -19.9156948
+          ],
+          [
+            -43.9266656,
+            -19.9156778
+          ],
+          [
+            -43.9265144,
+            -19.9155973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 30100153,
+        "v": 4635986228,
+        "key": 0,
+        "name": "Rua Floresta",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 194,
+            "coordenada": [
+              -43.9289346,
+              -19.9135811
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9276139,
+            -19.9138316
+          ],
+          [
+            -43.9276917,
+            -19.9138297
+          ],
+          [
+            -43.9277782,
+            -19.9138221
+          ],
+          [
+            -43.9286081,
+            -19.9136261
+          ],
+          [
+            -43.9286939,
+            -19.9136073
+          ],
+          [
+            -43.928733,
+            -19.9135988
+          ],
+          [
+            -43.9289346,
+            -19.9135811
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 31737027,
+        "v": 29096190,
+        "key": 0,
+        "name": "Rua Varginha",
+        "highway": "tertiary",
+        "bridge": "viaduct",
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_28"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_28",
+            "indice": 14,
+            "coordenada": [
+              -43.9372105,
+              -19.9139495
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_28": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9372105,
+            -19.9139495
+          ],
+          [
+            -43.9371921,
+            -19.9138789
+          ],
+          [
+            -43.9369877,
+            -19.9132238
+          ],
+          [
+            -43.9369513,
+            -19.9130811
+          ],
+          [
+            -43.9368693,
+            -19.9127294
+          ],
+          [
+            -43.9368263,
+            -19.9125256
+          ],
+          [
+            -43.9368175,
+            -19.9124891
+          ],
+          [
+            -43.9367992,
+            -19.9124136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 34043334,
+        "v": 34043336,
+        "key": 0,
+        "name": "Rua Monte Alegre",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 87,
+            "coordenada": [
+              -43.9254252,
+              -19.9367023
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9254252,
+            -19.9367023
+          ],
+          [
+            -43.9247226,
+            -19.9365739
+          ],
+          [
+            -43.9242726,
+            -19.936476
+          ],
+          [
+            -43.9242003,
+            -19.9364417
+          ],
+          [
+            -43.9241646,
+            -19.9364199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 35789387,
+        "v": 33024394,
+        "key": 0,
+        "name": "Rua do Ouro",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 102,
+            "coordenada": [
+              -43.9241096,
+              -19.9319448
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9241096,
+            -19.9319448
+          ],
+          [
+            -43.9240292,
+            -19.9319984
+          ],
+          [
+            -43.9239568,
+            -19.9320804
+          ],
+          [
+            -43.92351,
+            -19.9329949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 36416663,
+        "v": 1314574506,
+        "key": 0,
+        "name": "Rua Juiz da Costa Val",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 121,
+            "coordenada": [
+              -43.9199775,
+              -19.9269235
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9199775,
+            -19.9269235
+          ],
+          [
+            -43.9192351,
+            -19.9271004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 60592943,
+        "v": 60592946,
+        "key": 0,
+        "name": "Rua Andaluzita",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 65,
+            "coordenada": [
+              -43.9309149,
+              -19.9396866
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9309149,
+            -19.9396866
+          ],
+          [
+            -43.9313004,
+            -19.9411199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 60605244,
+        "v": 2744655066,
+        "key": 0,
+        "name": "Rua Pium-i",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 70,
+            "coordenada": [
+              -43.9290036,
+              -19.9394717
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9291565,
+            -19.9399903
+          ],
+          [
+            -43.9290157,
+            -19.9395127
+          ],
+          [
+            -43.9290036,
+            -19.9394717
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 60605245,
+        "v": 2744632600,
+        "key": 0,
+        "name": "Rua Prata",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 72,
+            "coordenada": [
+              -43.9275625,
+              -19.9393565
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9274465,
+            -19.9404018
+          ],
+          [
+            -43.927553,
+            -19.9394419
+          ],
+          [
+            -43.9275625,
+            -19.9393565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 60739717,
+        "v": 27590350,
+        "key": 0,
+        "name": "Rua Hermilo Alves",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 176,
+            "coordenada": [
+              -43.9264047,
+              -19.9174759
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9254788,
+            -19.9169466
+          ],
+          [
+            -43.9263219,
+            -19.9174317
+          ],
+          [
+            -43.9264047,
+            -19.9174759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 60739833,
+        "v": 60739845,
+        "key": 0,
+        "name": "Rua Almandina",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 173,
+            "coordenada": [
+              -43.9255722,
+              -19.9188111
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9255722,
+            -19.9188111
+          ],
+          [
+            -43.9246433,
+            -19.918292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 60739845,
+        "v": 60739833,
+        "key": 0,
+        "name": "Rua Almandina",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 173,
+            "coordenada": [
+              -43.9255722,
+              -19.9188111
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9246433,
+            -19.918292
+          ],
+          [
+            -43.9255722,
+            -19.9188111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 61808919,
+        "v": 321845970,
+        "key": 0,
+        "name": "Rua Professor Estêvão Pinto",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 90,
+            "coordenada": [
+              -43.9251114,
+              -19.9354844
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9246954,
+            -19.9359102
+          ],
+          [
+            -43.9250086,
+            -19.9355513
+          ],
+          [
+            -43.9251114,
+            -19.9354844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 61808925,
+        "v": 33078913,
+        "key": 0,
+        "name": "Rua Cícero Ferreira",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 92,
+            "coordenada": [
+              -43.9247631,
+              -19.9342904
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9235759,
+            -19.9348319
+          ],
+          [
+            -43.9247631,
+            -19.9342904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 73601087,
+        "v": 8920325756,
+        "key": 0,
+        "name": "Rua Rio Doce",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 107,
+            "coordenada": [
+              -43.9230971,
+              -19.9307332
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9220821,
+            -19.9313383
+          ],
+          [
+            -43.9230971,
+            -19.9307332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 73601135,
+        "v": 1314574503,
+        "key": 0,
+        "name": "Rua Camoes",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 113,
+            "coordenada": [
+              -43.922152,
+              -19.929726
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.922152,
+            -19.929726
+          ],
+          [
+            -43.9218224,
+            -19.9299623
+          ],
+          [
+            -43.9214273,
+            -19.9301654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 73601695,
+        "v": 73601675,
+        "key": 0,
+        "name": "Rua Tenente Garro",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 124,
+            "coordenada": [
+              -43.9196848,
+              -19.9257791
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9170751,
+            -19.9264261
+          ],
+          [
+            -43.9194839,
+            -19.9258282
+          ],
+          [
+            -43.9195941,
+            -19.9258029
+          ],
+          [
+            -43.9196848,
+            -19.9257791
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 73602014,
+        "v": 73602027,
+        "key": 0,
+        "name": "Rua Major Barbosa",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 129,
+            "coordenada": [
+              -43.9193771,
+              -19.9246529
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9193771,
+            -19.9246529
+          ],
+          [
+            -43.9192843,
+            -19.9246745
+          ],
+          [
+            -43.9168384,
+            -19.9252815
+          ],
+          [
+            -43.9167567,
+            -19.9252989
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 73602091,
+        "v": 29741084,
+        "key": 0,
+        "name": "Rua Niquelina",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 133,
+            "coordenada": [
+              -43.9191166,
+              -19.9238296
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9181618,
+            -19.923629
+          ],
+          [
+            -43.9189748,
+            -19.923806
+          ],
+          [
+            -43.9191166,
+            -19.9238296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 73602492,
+        "v": 73602516,
+        "key": 0,
+        "name": "Rua Ponta Porã",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": "60",
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 142,
+            "coordenada": [
+              -43.9195001,
+              -19.9224299
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.919313,
+            -19.9216862
+          ],
+          [
+            -43.9194875,
+            -19.9223734
+          ],
+          [
+            -43.9195001,
+            -19.9224299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 75602011,
+        "v": 75601952,
+        "key": 0,
+        "name": "Rua Raul Pompéia",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 50,
+            "coordenada": [
+              -43.9367535,
+              -19.9403042
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9367535,
+            -19.9403042
+          ],
+          [
+            -43.9370544,
+            -19.941474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 76008751,
+        "v": 76008723,
+        "key": 0,
+        "name": "Rua Paulo Afonso",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": "30",
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 17,
+            "coordenada": [
+              -43.9454087,
+              -19.9365626
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9454087,
+            -19.9365626
+          ],
+          [
+            -43.9454653,
+            -19.9367943
+          ],
+          [
+            -43.945586,
+            -19.9372759
+          ],
+          [
+            -43.9458205,
+            -19.9382887
+          ],
+          [
+            -43.9458382,
+            -19.9383652
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 76009054,
+        "v": 505534037,
+        "key": 0,
+        "name": "Rua Marquês de Maricá",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 16,
+            "coordenada": [
+              -43.9458704,
+              -19.9357744
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9465584,
+            -19.9382062
+          ],
+          [
+            -43.9459575,
+            -19.9359205
+          ],
+          [
+            -43.9458704,
+            -19.9357744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 76009190,
+        "v": 29096745,
+        "key": 0,
+        "name": "Avenida Prudente de Morais",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 11,
+            "coordenada": [
+              -43.9465601,
+              -19.9355089
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9473614,
+            -19.9379708
+          ],
+          [
+            -43.9470712,
+            -19.9371402
+          ],
+          [
+            -43.9467307,
+            -19.9360782
+          ],
+          [
+            -43.9466003,
+            -19.9356158
+          ],
+          [
+            -43.9465601,
+            -19.9355089
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 76012384,
+        "v": 76012394,
+        "key": 0,
+        "name": "Rua Sinval de Sá",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13",
+          "peca_15",
+          "peca_16"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 0,
+            "coordenada": [
+              -43.9507025,
+              -19.9345694
+            ]
+          },
+          {
+            "peca": "peca_15",
+            "indice": 7,
+            "coordenada": [
+              -43.9507025,
+              -19.9345694
+            ]
+          },
+          {
+            "peca": "peca_16",
+            "indice": 16,
+            "coordenada": [
+              -43.9507025,
+              -19.9345694
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          },
+          "peca_15": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          },
+          "peca_16": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9513394,
+            -19.9369734
+          ],
+          [
+            -43.9507214,
+            -19.9346945
+          ],
+          [
+            -43.9507095,
+            -19.9346257
+          ],
+          [
+            -43.9507025,
+            -19.9345694
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 76012451,
+        "v": 76012467,
+        "key": 0,
+        "name": "Rua Eduardo Porto",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 1,
+            "coordenada": [
+              -43.949632,
+              -19.9347901
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.949632,
+            -19.9347901
+          ],
+          [
+            -43.9500976,
+            -19.9367263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 76481425,
+        "v": 5017814243,
+        "key": 0,
+        "name": "Rua Erê",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 11,
+            "coordenada": [
+              -43.9575813,
+              -19.9225389
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9575813,
+            -19.9225389
+          ],
+          [
+            -43.9584317,
+            -19.9223142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 76481428,
+        "v": 76481504,
+        "key": 0,
+        "name": "Rua Platina",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 12,
+            "coordenada": [
+              -43.9579138,
+              -19.923746
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.959164,
+            -19.9234373
+          ],
+          [
+            -43.9590793,
+            -19.9234583
+          ],
+          [
+            -43.9579138,
+            -19.923746
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 76481449,
+        "v": 76481573,
+        "key": 0,
+        "name": "Rua Rio Claro",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 15,
+            "coordenada": [
+              -43.9583762,
+              -19.9254769
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9593842,
+            -19.9252495
+          ],
+          [
+            -43.9583762,
+            -19.9254769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 76481504,
+        "v": 76481428,
+        "key": 0,
+        "name": "Rua Platina",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 12,
+            "coordenada": [
+              -43.9579138,
+              -19.923746
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9579138,
+            -19.923746
+          ],
+          [
+            -43.9590793,
+            -19.9234583
+          ],
+          [
+            -43.959164,
+            -19.9234373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 76481567,
+        "v": 76481429,
+        "key": 0,
+        "name": "Rua Ametista",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 13,
+            "coordenada": [
+              -43.9580959,
+              -19.9244111
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9580959,
+            -19.9244111
+          ],
+          [
+            -43.9591213,
+            -19.9241402
+          ],
+          [
+            -43.9592433,
+            -19.9241116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 76481570,
+        "v": 76481430,
+        "key": 0,
+        "name": "Rua Cássia",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 14,
+            "coordenada": [
+              -43.9582398,
+              -19.9249378
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9582398,
+            -19.9249378
+          ],
+          [
+            -43.9593101,
+            -19.9246989
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 76481754,
+        "v": 76481476,
+        "key": 0,
+        "name": "Rua Lagoa Dourada",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 19,
+            "coordenada": [
+              -43.9584637,
+              -19.9262387
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9584637,
+            -19.9262387
+          ],
+          [
+            -43.9594783,
+            -19.9259982
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 76481767,
+        "v": 76481766,
+        "key": 0,
+        "name": "Rua Nepomuceno",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 20,
+            "coordenada": [
+              -43.9582982,
+              -19.9266932
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9590838,
+            -19.9269383
+          ],
+          [
+            -43.9582982,
+            -19.9266932
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 320407430,
+        "v": 320407432,
+        "key": 0,
+        "name": "Rua André Cavalcanti",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_16"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_16",
+            "indice": 5,
+            "coordenada": [
+              -43.9538143,
+              -19.9337665
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_16": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9549344,
+            -19.933441
+          ],
+          [
+            -43.9546919,
+            -19.9335289
+          ],
+          [
+            -43.9539795,
+            -19.9337192
+          ],
+          [
+            -43.9538143,
+            -19.9337665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 320407433,
+        "v": 4430762782,
+        "key": 0,
+        "name": "Rua Cônego Rocha Franco",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_16"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_16",
+            "indice": 6,
+            "coordenada": [
+              -43.9536795,
+              -19.9338495
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_16": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9536795,
+            -19.9338495
+          ],
+          [
+            -43.9536876,
+            -19.9338757
+          ],
+          [
+            -43.9537507,
+            -19.9341054
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 320407441,
+        "v": 320407430,
+        "key": 0,
+        "name": "Rua André Cavalcanti",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": "yes",
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_30"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_30",
+            "indice": 205,
+            "coordenada": [
+              -43.9535637,
+              -19.9337207
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_30": {
+            "lado": "esquerdo",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9535637,
+            -19.9337207
+          ],
+          [
+            -43.9536953,
+            -19.9337034
+          ],
+          [
+            -43.9540543,
+            -19.9336424
+          ],
+          [
+            -43.9546728,
+            -19.933491
+          ],
+          [
+            -43.9549344,
+            -19.933441
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 320407444,
+        "v": 320407430,
+        "key": 0,
+        "name": null,
+        "highway": "primary_link",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_16"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_16",
+            "indice": 3,
+            "coordenada": [
+              -43.9540574,
+              -19.9335366
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_16": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9540574,
+            -19.9335366
+          ],
+          [
+            -43.954074,
+            -19.9335577
+          ],
+          [
+            -43.9540924,
+            -19.9335667
+          ],
+          [
+            -43.9541305,
+            -19.9335687
+          ],
+          [
+            -43.9541813,
+            -19.9335644
+          ],
+          [
+            -43.9546826,
+            -19.9334524
+          ],
+          [
+            -43.9549344,
+            -19.933441
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 320407457,
+        "v": 76009215,
+        "key": 0,
+        "name": "Rua Joaquim Murtinho",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 28,
+            "coordenada": [
+              -43.9439809,
+              -19.938779
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9439809,
+            -19.938779
+          ],
+          [
+            -43.9440734,
+            -19.9387842
+          ],
+          [
+            -43.9441555,
+            -19.9387773
+          ],
+          [
+            -43.9441744,
+            -19.938774
+          ],
+          [
+            -43.9442681,
+            -19.9387578
+          ],
+          [
+            -43.9451812,
+            -19.938538
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 320407457,
+        "v": 28294462,
+        "key": 0,
+        "name": "Rua Coletor Celso Werneck",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 28,
+            "coordenada": [
+              -43.9439809,
+              -19.938779
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9439809,
+            -19.938779
+          ],
+          [
+            -43.9439673,
+            -19.9388483
+          ],
+          [
+            -43.9439623,
+            -19.9388839
+          ],
+          [
+            -43.9439619,
+            -19.9389016
+          ],
+          [
+            -43.9439614,
+            -19.938925
+          ],
+          [
+            -43.9439605,
+            -19.9389764
+          ],
+          [
+            -43.9439967,
+            -19.9397648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 320407461,
+        "v": 76008449,
+        "key": 0,
+        "name": "Rua Paulo Simoni",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 43,
+            "coordenada": [
+              -43.9387947,
+              -19.9400621
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9387947,
+            -19.9400621
+          ],
+          [
+            -43.939332,
+            -19.9418855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 320407488,
+        "v": 320407460,
+        "key": 0,
+        "name": "Rua Arturo Toscanini",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 42,
+            "coordenada": [
+              -43.9394862,
+              -19.9398895
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9398723,
+            -19.9413178
+          ],
+          [
+            -43.9396421,
+            -19.94042
+          ],
+          [
+            -43.9394862,
+            -19.9398895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 320926283,
+        "v": 320926284,
+        "key": 0,
+        "name": "Rua Lavras",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 55,
+            "coordenada": [
+              -43.9347054,
+              -19.9400704
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9347054,
+            -19.9400704
+          ],
+          [
+            -43.9347367,
+            -19.9401689
+          ],
+          [
+            -43.9347608,
+            -19.9402449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 320926295,
+        "v": 59869429,
+        "key": 0,
+        "name": "Avenida Nossa Senhora do Carmo",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": "60",
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 61,
+            "coordenada": [
+              -43.9328745,
+              -19.9398941
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.933382,
+            -19.9415809
+          ],
+          [
+            -43.9332283,
+            -19.9410517
+          ],
+          [
+            -43.9329614,
+            -19.9400879
+          ],
+          [
+            -43.9329376,
+            -19.9400051
+          ],
+          [
+            -43.9329237,
+            -19.9399764
+          ],
+          [
+            -43.9328862,
+            -19.9399112
+          ],
+          [
+            -43.9328745,
+            -19.9398941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 320934174,
+        "v": 504703716,
+        "key": 0,
+        "name": "Rua Antero da Silveira",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 68,
+            "coordenada": [
+              -43.9304517,
+              -19.9396354
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.930106,
+            -19.9397818
+          ],
+          [
+            -43.9303303,
+            -19.9397217
+          ],
+          [
+            -43.9304517,
+            -19.9396354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 320943755,
+        "v": 4921453867,
+        "key": 0,
+        "name": "Rua Grão Mogol",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 64,
+            "coordenada": [
+              -43.9318606,
+              -19.9397967
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9318606,
+            -19.9397967
+          ],
+          [
+            -43.9318877,
+            -19.9398548
+          ],
+          [
+            -43.9319165,
+            -19.9400049
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 320943758,
+        "v": 4921453867,
+        "key": 0,
+        "name": null,
+        "highway": "primary_link",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 62,
+            "coordenada": [
+              -43.9322692,
+              -19.939849
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9322692,
+            -19.939849
+          ],
+          [
+            -43.9322528,
+            -19.9398598
+          ],
+          [
+            -43.9322344,
+            -19.939867
+          ],
+          [
+            -43.9322143,
+            -19.939872
+          ],
+          [
+            -43.9321575,
+            -19.9398783
+          ],
+          [
+            -43.9320738,
+            -19.9398812
+          ],
+          [
+            -43.9320235,
+            -19.9398824
+          ],
+          [
+            -43.9319716,
+            -19.9398906
+          ],
+          [
+            -43.9319467,
+            -19.9398989
+          ],
+          [
+            -43.9319333,
+            -19.9399108
+          ],
+          [
+            -43.9319239,
+            -19.9399323
+          ],
+          [
+            -43.9319189,
+            -19.9399533
+          ],
+          [
+            -43.9319165,
+            -19.9400049
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 320943773,
+        "v": 4031215957,
+        "key": 0,
+        "name": "Avenida Afonso Pena",
+        "highway": "secondary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": "60",
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 78,
+            "coordenada": [
+              -43.9263023,
+              -19.9390287
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9263023,
+            -19.9390287
+          ],
+          [
+            -43.9262222,
+            -19.9391485
+          ],
+          [
+            -43.9261676,
+            -19.9392315
+          ],
+          [
+            -43.9258901,
+            -19.9396596
+          ],
+          [
+            -43.9257976,
+            -19.9398121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 320943787,
+        "v": 5426516122,
+        "key": 0,
+        "name": "Praça Milton Campos",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 81,
+            "coordenada": [
+              -43.9259954,
+              -19.9387842
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9259954,
+            -19.9387842
+          ],
+          [
+            -43.9259302,
+            -19.938773
+          ],
+          [
+            -43.9258812,
+            -19.9387812
+          ],
+          [
+            -43.9258061,
+            -19.9388051
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 320943811,
+        "v": 8920427568,
+        "key": 0,
+        "name": "Rua Pouso Alto",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 104,
+            "coordenada": [
+              -43.9240385,
+              -19.931791
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9240385,
+            -19.931791
+          ],
+          [
+            -43.9239796,
+            -19.9317665
+          ],
+          [
+            -43.9239112,
+            -19.9317589
+          ],
+          [
+            -43.9238147,
+            -19.9317522
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 321017456,
+        "v": 354123215,
+        "key": 0,
+        "name": "Avenida dos Andradas",
+        "highway": "primary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": "60",
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 166,
+            "coordenada": [
+              -43.9242618,
+              -19.9209348
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9239138,
+            -19.9207583
+          ],
+          [
+            -43.9242116,
+            -19.9209119
+          ],
+          [
+            -43.9242618,
+            -19.9209348
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 321017493,
+        "v": 321017510,
+        "key": 0,
+        "name": null,
+        "highway": "primary_link",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 155,
+            "coordenada": [
+              -43.9238185,
+              -19.9213797
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9238185,
+            -19.9213797
+          ],
+          [
+            -43.9238884,
+            -19.9213074
+          ],
+          [
+            -43.9239097,
+            -19.9212815
+          ],
+          [
+            -43.9239239,
+            -19.9212551
+          ],
+          [
+            -43.9239238,
+            -19.9212273
+          ],
+          [
+            -43.9239058,
+            -19.9211598
+          ],
+          [
+            -43.9238259,
+            -19.9210681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 321027750,
+        "v": 60739820,
+        "key": 0,
+        "name": "Rua Lauro Jaques",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 187,
+            "coordenada": [
+              -43.9278111,
+              -19.915218
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9278111,
+            -19.915218
+          ],
+          [
+            -43.9277379,
+            -19.9151775
+          ],
+          [
+            -43.9270833,
+            -19.9147862
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 321027939,
+        "v": 31737030,
+        "key": 0,
+        "name": null,
+        "highway": "primary_link",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_28"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_28",
+            "indice": 4,
+            "coordenada": [
+              -43.9346212,
+              -19.9146884
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_28": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.933854,
+            -19.914788
+          ],
+          [
+            -43.9341031,
+            -19.9147265
+          ],
+          [
+            -43.9344496,
+            -19.9146745
+          ],
+          [
+            -43.9345527,
+            -19.9146829
+          ],
+          [
+            -43.9346212,
+            -19.9146884
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 321403310,
+        "v": 2066691710,
+        "key": 0,
+        "name": "Rua Cuiabá",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 22,
+            "coordenada": [
+              -43.9577814,
+              -19.9280851
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9586869,
+            -19.9283184
+          ],
+          [
+            -43.9577814,
+            -19.9280851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 321403348,
+        "v": 321403351,
+        "key": 0,
+        "name": null,
+        "highway": "trunk_link",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 2,
+            "coordenada": [
+              -43.9566301,
+              -19.9191015
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9568836,
+            -19.9189262
+          ],
+          [
+            -43.9567669,
+            -19.9189187
+          ],
+          [
+            -43.9567265,
+            -19.9189284
+          ],
+          [
+            -43.9566931,
+            -19.9189578
+          ],
+          [
+            -43.9566515,
+            -19.9190145
+          ],
+          [
+            -43.9566301,
+            -19.9191015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 321403348,
+        "v": 4341442142,
+        "key": 0,
+        "name": "Avenida Tereza Cristina",
+        "highway": "trunk",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": "60",
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 0,
+            "coordenada": [
+              -43.9565282,
+              -19.9187714
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9568836,
+            -19.9189262
+          ],
+          [
+            -43.9567735,
+            -19.9188819
+          ],
+          [
+            -43.9566633,
+            -19.9188376
+          ],
+          [
+            -43.9565282,
+            -19.9187714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 331924399,
+        "v": 8996732491,
+        "key": 0,
+        "name": "Avenida Raja Gabaglia",
+        "highway": "secondary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": "60",
+        "pecas": [
+          "peca_16"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_16",
+            "indice": 11,
+            "coordenada": [
+              -43.9523982,
+              -19.9341658
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_16": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9531166,
+            -19.9357028
+          ],
+          [
+            -43.9527723,
+            -19.9349014
+          ],
+          [
+            -43.9525972,
+            -19.9345557
+          ],
+          [
+            -43.9524317,
+            -19.9342315
+          ],
+          [
+            -43.9523982,
+            -19.9341658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 338835706,
+        "v": 61808396,
+        "key": 0,
+        "name": "Rua Luz",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 83,
+            "coordenada": [
+              -43.925898,
+              -19.938519
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.925898,
+            -19.938519
+          ],
+          [
+            -43.9239219,
+            -19.9366342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 354123226,
+        "v": 321017510,
+        "key": 0,
+        "name": "Avenida dos Andradas",
+        "highway": "primary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": "60",
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 163,
+            "coordenada": [
+              -43.9241075,
+              -19.9211761
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9241075,
+            -19.9211761
+          ],
+          [
+            -43.924045,
+            -19.9211625
+          ],
+          [
+            -43.9238259,
+            -19.9210681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 497235897,
+        "v": 497235922,
+        "key": 0,
+        "name": "Rua dos Guajajaras",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 8,
+            "coordenada": [
+              -43.9572017,
+              -19.9211465
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9572017,
+            -19.9211465
+          ],
+          [
+            -43.9577568,
+            -19.9211529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 504703725,
+        "v": 504703721,
+        "key": 0,
+        "name": null,
+        "highway": "primary_link",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 69,
+            "coordenada": [
+              -43.9299328,
+              -19.9395773
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9299328,
+            -19.9395773
+          ],
+          [
+            -43.9299896,
+            -19.9398082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 890483339,
+        "v": 28109314,
+        "key": 0,
+        "name": "Rua Padre Odorico",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 51,
+            "coordenada": [
+              -43.9360555,
+              -19.9402288
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9362641,
+            -19.9408766
+          ],
+          [
+            -43.9361294,
+            -19.9403672
+          ],
+          [
+            -43.9361102,
+            -19.9403001
+          ],
+          [
+            -43.9360877,
+            -19.9402585
+          ],
+          [
+            -43.9360555,
+            -19.9402288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 984671712,
+        "v": 320926284,
+        "key": 0,
+        "name": null,
+        "highway": "primary_link",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 52,
+            "coordenada": [
+              -43.9349569,
+              -19.9400973
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9349569,
+            -19.9400973
+          ],
+          [
+            -43.9348735,
+            -19.9401319
+          ],
+          [
+            -43.9348054,
+            -19.9401828
+          ],
+          [
+            -43.9347608,
+            -19.9402449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 1239338314,
+        "v": 8227093550,
+        "key": 0,
+        "name": "Rua Senador Gonçalves Chaves",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 171,
+            "coordenada": [
+              -43.9248469,
+              -19.9199897
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9243369,
+            -19.9197244
+          ],
+          [
+            -43.9247653,
+            -19.9199495
+          ],
+          [
+            -43.9248469,
+            -19.9199897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 1314568556,
+        "v": 1314574486,
+        "key": 0,
+        "name": "Rua Piranga",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 116,
+            "coordenada": [
+              -43.9203223,
+              -19.9277444
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9203223,
+            -19.9277444
+          ],
+          [
+            -43.9199884,
+            -19.9281876
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 1314574486,
+        "v": 1314568556,
+        "key": 0,
+        "name": "Rua Piranga",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 116,
+            "coordenada": [
+              -43.9203223,
+              -19.9277444
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9199884,
+            -19.9281876
+          ],
+          [
+            -43.9203223,
+            -19.9277444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 1314574503,
+        "v": 73601135,
+        "key": 0,
+        "name": "Rua Camoes",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 113,
+            "coordenada": [
+              -43.922152,
+              -19.929726
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9214273,
+            -19.9301654
+          ],
+          [
+            -43.9218224,
+            -19.9299623
+          ],
+          [
+            -43.922152,
+            -19.929726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 2066691704,
+        "v": 321403309,
+        "key": 0,
+        "name": "Rua Turquesa",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 21,
+            "coordenada": [
+              -43.9579683,
+              -19.9275287
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9579683,
+            -19.9275287
+          ],
+          [
+            -43.9588987,
+            -19.9276115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 2367778808,
+        "v": 2823629281,
+        "key": 0,
+        "name": "Avenida Prudente de Morais",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 9,
+            "coordenada": [
+              -43.9468396,
+              -19.9354439
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9468396,
+            -19.9354439
+          ],
+          [
+            -43.9467772,
+            -19.9355561
+          ],
+          [
+            -43.9467566,
+            -19.9356837
+          ],
+          [
+            -43.9467628,
+            -19.9357982
+          ],
+          [
+            -43.946779,
+            -19.9358948
+          ],
+          [
+            -43.9468233,
+            -19.9360539
+          ],
+          [
+            -43.946855,
+            -19.9361502
+          ],
+          [
+            -43.9471541,
+            -19.9370771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 2460331370,
+        "v": 2460331366,
+        "key": 0,
+        "name": "Rua Conde de Linhares",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 4,
+            "coordenada": [
+              -43.9484573,
+              -19.9350616
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9488144,
+            -19.9363802
+          ],
+          [
+            -43.9486299,
+            -19.9357048
+          ],
+          [
+            -43.9484573,
+            -19.9350616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 2479065018,
+        "v": 2460331369,
+        "key": 0,
+        "name": "Rua Conde de Linhares",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 3,
+            "coordenada": [
+              -43.9485527,
+              -19.9350402
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9485527,
+            -19.9350402
+          ],
+          [
+            -43.9489407,
+            -19.9364588
+          ],
+          [
+            -43.948948,
+            -19.9364871
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 2744632600,
+        "v": 60605245,
+        "key": 0,
+        "name": "Rua Prata",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 72,
+            "coordenada": [
+              -43.9275625,
+              -19.9393565
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9275625,
+            -19.9393565
+          ],
+          [
+            -43.927553,
+            -19.9394419
+          ],
+          [
+            -43.9274465,
+            -19.9404018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 2813632024,
+        "v": 29096647,
+        "key": 0,
+        "name": "Rua Leopoldina",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 39,
+            "coordenada": [
+              -43.94017,
+              -19.9397205
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9404782,
+            -19.9408697
+          ],
+          [
+            -43.940284,
+            -19.9401351
+          ],
+          [
+            -43.9402201,
+            -19.9398982
+          ],
+          [
+            -43.9402118,
+            -19.9398674
+          ],
+          [
+            -43.94017,
+            -19.9397205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 2823794501,
+        "v": 2391161903,
+        "key": 0,
+        "name": "Avenida Nossa Senhora do Carmo",
+        "highway": "primary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": "60",
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 59,
+            "coordenada": [
+              -43.9331369,
+              -19.9399235
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.934004,
+            -19.9434536
+          ],
+          [
+            -43.9337786,
+            -19.9426087
+          ],
+          [
+            -43.9336753,
+            -19.9422715
+          ],
+          [
+            -43.9334611,
+            -19.9414725
+          ],
+          [
+            -43.9330965,
+            -19.9401667
+          ],
+          [
+            -43.9330904,
+            -19.9400984
+          ],
+          [
+            -43.9330997,
+            -19.9400229
+          ],
+          [
+            -43.9331061,
+            -19.9399896
+          ],
+          [
+            -43.9331369,
+            -19.9399235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 2832927101,
+        "v": 76015378,
+        "key": 0,
+        "name": "Rua Bernardino de Lima",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 31,
+            "coordenada": [
+              -43.9569221,
+              -19.9303466
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9569221,
+            -19.9303466
+          ],
+          [
+            -43.9582656,
+            -19.9306662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 2853418171,
+        "v": 2896414701,
+        "key": 0,
+        "name": "Rua Engenheiro Carlos Antonini",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 111,
+            "coordenada": [
+              -43.9226386,
+              -19.9302551
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9226386,
+            -19.9302551
+          ],
+          [
+            -43.9217899,
+            -19.9307242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 2896414701,
+        "v": 2853418171,
+        "key": 0,
+        "name": "Rua Engenheiro Carlos Antonini",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 111,
+            "coordenada": [
+              -43.9226386,
+              -19.9302551
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9217899,
+            -19.9307242
+          ],
+          [
+            -43.9226386,
+            -19.9302551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 3209976787,
+        "v": 3209976788,
+        "key": 0,
+        "name": "Praça Tiwanaku",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 98,
+            "coordenada": [
+              -43.9243334,
+              -19.9328598
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9243334,
+            -19.9328598
+          ],
+          [
+            -43.9241215,
+            -19.9336974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 3209976788,
+        "v": 3209976787,
+        "key": 0,
+        "name": "Praça Tiwanaku",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 98,
+            "coordenada": [
+              -43.9243334,
+              -19.9328598
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9241215,
+            -19.9336974
+          ],
+          [
+            -43.9243334,
+            -19.9328598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 3337165278,
+        "v": 3337165362,
+        "key": 0,
+        "name": "Rua Conquista",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_24"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_24",
+            "indice": 10,
+            "coordenada": [
+              -43.9542691,
+              -19.9175929
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_24": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9542691,
+            -19.9175929
+          ],
+          [
+            -43.9546534,
+            -19.9172208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 3337165362,
+        "v": 3337165253,
+        "key": 0,
+        "name": "Rua Conquista",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_24"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_24",
+            "indice": 11,
+            "coordenada": [
+              -43.9547905,
+              -19.917806
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_24": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9546534,
+            -19.9172208
+          ],
+          [
+            -43.9547905,
+            -19.917806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 4031215957,
+        "v": 320943775,
+        "key": 0,
+        "name": "Praça Milton Campos",
+        "highway": "secondary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 75,
+            "coordenada": [
+              -43.9267011,
+              -19.9392262
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9257976,
+            -19.9398121
+          ],
+          [
+            -43.9259609,
+            -19.9397707
+          ],
+          [
+            -43.9259957,
+            -19.9397603
+          ],
+          [
+            -43.9262546,
+            -19.9396994
+          ],
+          [
+            -43.9263724,
+            -19.939642
+          ],
+          [
+            -43.9264845,
+            -19.9395402
+          ],
+          [
+            -43.9266466,
+            -19.9393186
+          ],
+          [
+            -43.9266655,
+            -19.9392865
+          ],
+          [
+            -43.9267011,
+            -19.9392262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 4430763395,
+        "v": 8189630026,
+        "key": 0,
+        "name": "Rua Almirante Alexandrino",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 36,
+            "coordenada": [
+              -43.9558202,
+              -19.931528
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9558202,
+            -19.931528
+          ],
+          [
+            -43.9559709,
+            -19.9321043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 4634496627,
+        "v": 28294407,
+        "key": 0,
+        "name": "Rua Itajubá",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 198,
+            "coordenada": [
+              -43.9301378,
+              -19.9132887
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9297822,
+            -19.9121267
+          ],
+          [
+            -43.9301093,
+            -19.9132014
+          ],
+          [
+            -43.9301264,
+            -19.9132539
+          ],
+          [
+            -43.9301378,
+            -19.9132887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 4635986228,
+        "v": 4634496627,
+        "key": 0,
+        "name": "Rua Curvelo",
+        "highway": "tertiary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 194,
+            "coordenada": [
+              -43.9289346,
+              -19.9135811
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9289346,
+            -19.9135811
+          ],
+          [
+            -43.9290024,
+            -19.9134707
+          ],
+          [
+            -43.929031,
+            -19.9134241
+          ],
+          [
+            -43.9297822,
+            -19.9121267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 4894306882,
+        "v": 5557715228,
+        "key": 0,
+        "name": "Viaduto Leste",
+        "highway": "primary",
+        "bridge": "viaduct",
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": "60",
+        "pecas": [
+          "peca_20"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_20",
+            "indice": 40,
+            "coordenada": [
+              -43.937127,
+              -19.9142131
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_20": {
+            "lado": "esquerdo",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9416271,
+            -19.9102361
+          ],
+          [
+            -43.9413884,
+            -19.9105084
+          ],
+          [
+            -43.9412583,
+            -19.9106131
+          ],
+          [
+            -43.9410072,
+            -19.9107753
+          ],
+          [
+            -43.940789,
+            -19.9108943
+          ],
+          [
+            -43.940582,
+            -19.9110034
+          ],
+          [
+            -43.9404155,
+            -19.9111034
+          ],
+          [
+            -43.9402062,
+            -19.9112766
+          ],
+          [
+            -43.9398065,
+            -19.9117015
+          ],
+          [
+            -43.9389899,
+            -19.9125115
+          ],
+          [
+            -43.9378115,
+            -19.9136283
+          ],
+          [
+            -43.9376541,
+            -19.9137665
+          ],
+          [
+            -43.9374475,
+            -19.9139542
+          ],
+          [
+            -43.937127,
+            -19.9142131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 5017814243,
+        "v": 76481425,
+        "key": 0,
+        "name": "Rua Erê",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 11,
+            "coordenada": [
+              -43.9575813,
+              -19.9225389
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9584317,
+            -19.9223142
+          ],
+          [
+            -43.9575813,
+            -19.9225389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 5426516014,
+        "v": 320943789,
+        "key": 0,
+        "name": "Avenida Afonso Pena",
+        "highway": "secondary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": "60",
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 79,
+            "coordenada": [
+              -43.9261852,
+              -19.9389684
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9256053,
+            -19.9399298
+          ],
+          [
+            -43.9257399,
+            -19.9397089
+          ],
+          [
+            -43.9261167,
+            -19.9390859
+          ],
+          [
+            -43.9261852,
+            -19.9389684
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 5426516122,
+        "v": 5426516012,
+        "key": 0,
+        "name": "Praça Milton Campos",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 82,
+            "coordenada": [
+              -43.9259259,
+              -19.9386399
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9258061,
+            -19.9388051
+          ],
+          [
+            -43.9258423,
+            -19.9387264
+          ],
+          [
+            -43.9258812,
+            -19.9386779
+          ],
+          [
+            -43.9259259,
+            -19.9386399
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 6269325066,
+        "v": 8920051692,
+        "key": 0,
+        "name": "Viaduto Leste",
+        "highway": "primary",
+        "bridge": "viaduct",
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": "60",
+        "pecas": [
+          "peca_20"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_20",
+            "indice": 37,
+            "coordenada": [
+              -43.9376883,
+              -19.9139319
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_20": {
+            "lado": "esquerdo",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.939244,
+            -19.9123481
+          ],
+          [
+            -43.9379807,
+            -19.9135902
+          ],
+          [
+            -43.9379359,
+            -19.9136325
+          ],
+          [
+            -43.9376883,
+            -19.9139319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 8163764554,
+        "v": 33024395,
+        "key": 0,
+        "name": "Rua Desembargador Drumond",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 93,
+            "coordenada": [
+              -43.9247446,
+              -19.9342099
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9247446,
+            -19.9342099
+          ],
+          [
+            -43.9240697,
+            -19.9340609
+          ],
+          [
+            -43.9233892,
+            -19.9338875
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 8189630026,
+        "v": 4430763395,
+        "key": 0,
+        "name": "Rua Almirante Alexandrino",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 36,
+            "coordenada": [
+              -43.9558202,
+              -19.931528
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9559709,
+            -19.9321043
+          ],
+          [
+            -43.9558202,
+            -19.931528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 8189630029,
+        "v": 2832925802,
+        "key": 0,
+        "name": "Rua Marechal Hermes",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 33,
+            "coordenada": [
+              -43.9567963,
+              -19.9304692
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.957251,
+            -19.9317975
+          ],
+          [
+            -43.9569488,
+            -19.9307519
+          ],
+          [
+            -43.9568632,
+            -19.9304726
+          ],
+          [
+            -43.9568381,
+            -19.9304614
+          ],
+          [
+            -43.9568149,
+            -19.9304578
+          ],
+          [
+            -43.9567963,
+            -19.9304692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 8189858246,
+        "v": 8189858250,
+        "key": 0,
+        "name": "Rua Thompson Flores",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 23,
+            "coordenada": [
+              -43.957631,
+              -19.9284873
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.957631,
+            -19.9284873
+          ],
+          [
+            -43.9577645,
+            -19.9288196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 8189858250,
+        "v": 8189858247,
+        "key": 0,
+        "name": "Rua Sertões",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 24,
+            "coordenada": [
+              -43.9574915,
+              -19.9288859
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9577645,
+            -19.9288196
+          ],
+          [
+            -43.9574915,
+            -19.9288859
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 8908243417,
+        "v": 76481414,
+        "key": 0,
+        "name": "Rua João Lúcio Brandão",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 6,
+            "coordenada": [
+              -43.9569051,
+              -19.9200951
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9571575,
+            -19.9204191
+          ],
+          [
+            -43.9569051,
+            -19.9200951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 8908243417,
+        "v": 8908211116,
+        "key": 0,
+        "name": "Rua João Lúcio Brandão",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 7,
+            "coordenada": [
+              -43.9570312,
+              -19.9205225
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9571575,
+            -19.9204191
+          ],
+          [
+            -43.9570312,
+            -19.9205225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 8920325756,
+        "v": 73601087,
+        "key": 0,
+        "name": "Rua Rio Doce",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": false,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 107,
+            "coordenada": [
+              -43.9230971,
+              -19.9307332
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "mao_dupla"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9230971,
+            -19.9307332
+          ],
+          [
+            -43.9220821,
+            -19.9313383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 8920427568,
+        "v": 8920427569,
+        "key": 0,
+        "name": "Rua Pouso Alto",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 106,
+            "coordenada": [
+              -43.9239304,
+              -19.9316565
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9238147,
+            -19.9317522
+          ],
+          [
+            -43.9238776,
+            -19.9317072
+          ],
+          [
+            -43.9239304,
+            -19.9316565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 8955525494,
+        "v": 1464707339,
+        "key": 0,
+        "name": "Rua Ituiutaba",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 5,
+            "coordenada": [
+              -43.9568718,
+              -19.919972
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9568718,
+            -19.919972
+          ],
+          [
+            -43.9575214,
+            -19.9199136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 8979470819,
+        "v": 321017189,
+        "key": 0,
+        "name": "Avenida Churchill",
+        "highway": "residential",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_13"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_13",
+            "indice": 138,
+            "coordenada": [
+              -43.9190327,
+              -19.9225504
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_13": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9181233,
+            -19.9223193
+          ],
+          [
+            -43.9187944,
+            -19.9225074
+          ],
+          [
+            -43.9189169,
+            -19.9225323
+          ],
+          [
+            -43.9190327,
+            -19.9225504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 8996732490,
+        "v": 27590353,
+        "key": 0,
+        "name": "Avenida Raja Gabaglia",
+        "highway": "secondary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": "60",
+        "pecas": [
+          "peca_16"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_16",
+            "indice": 10,
+            "coordenada": [
+              -43.9524868,
+              -19.9341461
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_16": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9524868,
+            -19.9341461
+          ],
+          [
+            -43.9526761,
+            -19.9345228
+          ],
+          [
+            -43.9528294,
+            -19.9348262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 10250743897,
+        "v": 76481789,
+        "key": 0,
+        "name": "Avenida Amazonas",
+        "highway": "primary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 27,
+            "coordenada": [
+              -43.9572946,
+              -19.9293987
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "sai_da_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9572946,
+            -19.9293987
+          ],
+          [
+            -43.9575292,
+            -19.9294585
+          ],
+          [
+            -43.9579403,
+            -19.9295488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 11597430938,
+        "v": 321070241,
+        "key": 0,
+        "name": null,
+        "highway": "primary_link",
+        "bridge": "yes",
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_20"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_20",
+            "indice": 9,
+            "coordenada": [
+              -43.9447264,
+              -19.9157958
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_20": {
+            "lado": "esquerdo",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9447833,
+            -19.9156016
+          ],
+          [
+            -43.94476,
+            -19.915701
+          ],
+          [
+            -43.9447264,
+            -19.9157958
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 11597430938,
+        "v": 11597430933,
+        "key": 0,
+        "name": null,
+        "highway": "primary_link",
+        "bridge": "yes",
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_20"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_20",
+            "indice": 10,
+            "coordenada": [
+              -43.944602,
+              -19.9156602
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_20": {
+            "lado": "esquerdo",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.9447833,
+            -19.9156016
+          ],
+          [
+            -43.944738,
+            -19.915629
+          ],
+          [
+            -43.9447098,
+            -19.9156463
+          ],
+          [
+            -43.9446837,
+            -19.9156555
+          ],
+          [
+            -43.9446566,
+            -19.9156585
+          ],
+          [
+            -43.944602,
+            -19.9156602
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "u": 12273546153,
+        "v": 10250743896,
+        "key": 0,
+        "name": "Avenida Amazonas",
+        "highway": "primary",
+        "bridge": null,
+        "layer": null,
+        "tunnel": null,
+        "oneway": true,
+        "maxspeed": null,
+        "pecas": [
+          "peca_18"
+        ],
+        "conexoes": [
+          {
+            "peca": "peca_18",
+            "indice": 28,
+            "coordenada": [
+              -43.9572417,
+              -19.9295482
+            ]
+          }
+        ],
+        "lado": "direito",
+        "posicao_anel": "externo",
+        "lados_por_peca": {
+          "peca_18": {
+            "lado": "direito",
+            "sentido": "entra_na_avenida"
+          }
+        }
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.95743,
+            -19.9295899
+          ],
+          [
+            -43.9573773,
+            -19.929579
+          ],
+          [
+            -43.9572417,
+            -19.9295482
+          ]
+        ]
+      }
+    }
+  ]
+}
