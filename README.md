@@ -62,12 +62,12 @@ Para parar, aperte `Ctrl+C`.
 As avenidas ficam na lista dentro de `maps_image_collect.py`. Para monitorar mais de uma, coloque mais arquivos na lista:
 
 ```python
-coletar_periodicamente([PASTA / 'pecas_avenida_crtistiano_machado.geojson',
-                        PASTA / 'pecas_avenida_do_contorno.geojson'],
+coletar_periodicamente([PECAS / 'pecas_avenida_crtistiano_machado.geojson',
+                        PECAS / 'pecas_avenida_do_contorno.geojson'],
                        chave, saida=PASTA / 'pior_transito.json')
 ```
 
-Avenidas disponíveis:
+Avenidas disponíveis, na pasta `peças de exemplo/`:
 
 | Arquivo | Avenida |
 |---|---|
@@ -130,7 +130,7 @@ from dotenv import load_dotenv
 from transito import pior_transito
 
 load_dotenv()
-dados = pior_transito(["pecas_avenida_do_contorno.geojson"], os.environ["GOOGLE_MAPS_API_KEY"])
+dados = pior_transito(["peças de exemplo/pecas_avenida_do_contorno.geojson"], os.environ["GOOGLE_MAPS_API_KEY"])
 print(dados["avenida"], dados["extensao_m"], "m")
 ```
 
@@ -140,7 +140,7 @@ Rode a partir da pasta do projeto, para os caminhos dos arquivos funcionarem.
 
 ```
 transito/              o código
-pecas_*.geojson        o traçado de cada avenida, dividido em pedaços
+peças de exemplo/      o traçado de cada avenida, dividido em pedaços
 bairros e ruas/
   BAIRRO_POPULAR.json  os bairros de Belo Horizonte
   ruas/<avenida>/      as ruas que cruzam cada avenida, separadas por lado

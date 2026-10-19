@@ -15,12 +15,13 @@ from transito import coletar_periodicamente
 
 if __name__ == "__main__":
     PASTA = Path(__file__).resolve().parent  # arquivos ao lado do script, de onde quer que ele rode
+    PECAS = PASTA / 'peças de exemplo'
     load_dotenv(PASTA / '.env')
     chave = os.environ.get('GOOGLE_MAPS_API_KEY')
     if not chave:
         raise SystemExit('Defina GOOGLE_MAPS_API_KEY no .env (modelo em .env.example)')
     try:
-        coletar_periodicamente([PASTA / 'pecas_avenida_crtistiano_machado.geojson'],
+        coletar_periodicamente([PECAS / 'pecas_avenida_crtistiano_machado.geojson'],
                                chave, saida=PASTA / 'pior_transito.json')
     except KeyboardInterrupt:
         pass

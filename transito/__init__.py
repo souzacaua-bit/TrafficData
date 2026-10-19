@@ -10,12 +10,12 @@ print é georreferenciado por Web Mercator e a cor é lida em cima de cada peça
 Uso:
     from transito import capturar_transito
     dados = capturar_transito(
-        ["cortes/pecas_avenida_do_contorno.geojson"],
+        ["peças de exemplo/pecas_avenida_do_contorno.geojson"],
         chave_api="...",
         pasta_prints="prints",
     )
 
-O maps_image.py, na raiz do projeto, coleta a pior retenção a cada 10 minutos e
+O maps_image_collect.py, na raiz do projeto, coleta a pior retenção a cada 10 minutos e
 sobrescreve pior_transito.json (ver `coletar_periodicamente`).
 
 Saída por peça no mesmo vocabulário do Routes API (NORMAL / SLOW / TRAFFIC_JAM),
